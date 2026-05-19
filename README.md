@@ -1,8 +1,7 @@
-📊 Insurance Data Analysis & Machine Learning Project
 
 This repository contains an end-to-end Insurance Data Analysis and Machine Learning project built using Python. The project focuses on extracting insights from insurance data and developing a predictive model to estimate medical insurance charges.
 
-🔍 Project Overview
+🔍 Project Overview:
 
 Performed data cleaning, preprocessing, and exploratory data analysis (EDA) to understand key factors affecting insurance costs
 
